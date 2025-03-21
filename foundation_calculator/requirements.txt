@@ -1,0 +1,10 @@
+PyQt5==5.15.6
+numpy==1.22.4
+scipy==1.8.1
+matplotlib==3.5.2
+plotly==5.8.2
+reportlab==3.6.11
+python-docx==0.8.11
+openpyxl==3.0.10
+kaleido==0.2.1      # 用于保存plotly图表
+pillow==9.1.1       # 图像处理 
